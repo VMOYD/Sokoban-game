@@ -1,6 +1,3 @@
-Here’s an improved `README.md` for your Sokoban game with icons, better formatting, and an engaging look! 🚀🎮  
-
----
 
 # 🏠🧩 Sokoban Game 🎮  
 
